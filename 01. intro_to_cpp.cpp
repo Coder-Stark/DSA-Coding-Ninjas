@@ -1475,5 +1475,9 @@ square
 rectangle
 20
 Explanation Of Sample Output 1:
-Firstly we are creating the object of class Square with mentioned length 5 and calling the functions printMyType which output square and then calculateArea which returns 25 and hence printed. Similarly, it is done for the Rectangle class.
+Firstly we are creating the object of class Square with mentioned length 5 and calling the functions printMyType 
+which output square and then calculateArea which returns 25 and hence printed. Similarly, it is done for the Rectangle class.
 */
+
+
+/*--------------------------------------------    THE END    -------------------------------------------------------------------------------*/
